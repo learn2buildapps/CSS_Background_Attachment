@@ -1,0 +1,18 @@
+div {
+  height: 100vh;
+  color: white;
+  border: 2px solid yellow;
+}
+
+#big-game-image {
+  background-image: url('../images/big-game.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#another-game-image {
+  background-image: url('../images/another-game.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
